@@ -659,9 +659,9 @@ export function EducationSection() {
       gpaLabel: t('about.ipk2'),
       status: t('education.2.status'),
       description: t('education.2.desc'),
-      image: '/projects/kkn-kelompok.jpg',
-      imagePos: '50% 50%',
-      ratio: 1280 / 960, // tinggi bingkai mengikuti rasio foto, jadi foto utuh tanpa potongan
+      image: '/projects/wisuda-s1.jpg',
+      imagePos: '50% 40%',
+      ratio: 1600 / 2400, // tinggi bingkai mengikuti rasio foto, jadi foto utuh tanpa potongan
       imageTag: t('education.2.tag'),
       imageCaption: t('education.2.caption'),
       highlights: [
